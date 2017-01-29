@@ -39,3 +39,13 @@
 
 1. [#100DaysofCode](https://github.com/nashkell/100-days-of-code)
 2. [Tribute Page](https://codepen.io/nashkell/pen/QdvBvr)
+
+
+### Day 2: January 28, 2017
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Setup Start jQuery freeCodeCamp course.
+
+**Thoughts:** The jQuery course so far has been a bit of a refresh, but it's clear that I just need to spend some more time practicing how to write proper syntax, understanding the purpose of the invdividual components and their relationship to vanilla js.
+
+Just finished the jQuery courses and I'm concerned I'm going through them too fast? FCC identified this as a 3hr course and I finished in just over 1.5hrs tops. 
