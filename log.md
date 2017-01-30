@@ -44,8 +44,19 @@
 ### Day 2: January 28, 2017
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Setup Start jQuery freeCodeCamp course.
+**Today's Progress**: Start jQuery freeCodeCamp course.
 
 **Thoughts:** The jQuery course so far has been a bit of a refresh, but it's clear that I just need to spend some more time practicing how to write proper syntax, understanding the purpose of the invdividual components and their relationship to vanilla js.
 
 Just finished the jQuery courses and I'm concerned I'm going through them too fast? FCC identified this as a 3hr course and I finished in just over 1.5hrs tops. 
+
+
+### Day 3: January 29, 2017
+
+**Today's Progress**: Started the FCC JS Course, Flexbox frogger.
+
+**Thoughts:** Went back and reviewed the basic FCCjQuery course and started the FCC JS challenges (yay algorithms).
+
+1. [#100DaysofCode](https://github.com/nashkell/100-days-of-code)
+2. [Flexboxfroggy](http://flexboxfroggy.com/)
+
