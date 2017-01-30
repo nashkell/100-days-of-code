@@ -55,7 +55,7 @@ Just finished the jQuery courses and I'm concerned I'm going through them too fa
 
 **Today's Progress**: Started the FCC JS Course, Flexbox frogger.
 
-**Thoughts:** Went back and reviewed the basic FCCjQuery course and started the FCC JS challenges (yay algorithms).
+**Thoughts:** Went back and reviewed the basic FCCjQuery course and started the FCC JS challenges (yay algorithms). Discovered a fun new way to learn flexbox and really think I'm going to start implementing it into my projects (so simple in comparison to other positioning solutions).
 
 1. [#100DaysofCode](https://github.com/nashkell/100-days-of-code)
 2. [Flexboxfroggy](http://flexboxfroggy.com/)
