@@ -60,3 +60,13 @@ Just finished the jQuery courses and I'm concerned I'm going through them too fa
 1. [#100DaysofCode](https://github.com/nashkell/100-days-of-code)
 2. [Flexboxfroggy](http://flexboxfroggy.com/)
 
+
+### Day 4: January 30, 2017
+
+**Today's Progress**: Continued FCC JS Course, revisited D3js documentation.
+
+**Thoughts:** Meant to post this last night, but was soo tired, I'm just posting it in from my desk at work on 31 Jan 2017. I spent half of my evening working through the FCC JS challenges. The other half was revisiting D3js documentation; I'm hoping to create a google map api or D3js based interactive map for a game I play....hmmm...thoughts are brewing.
+
+1. [#100DaysofCode](https://github.com/nashkell/100-days-of-code)
+2. [D3js](https://d3js.org/)
+
