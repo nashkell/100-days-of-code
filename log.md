@@ -70,3 +70,13 @@ Just finished the jQuery courses and I'm concerned I'm going through them too fa
 1. [#100DaysofCode](https://github.com/nashkell/100-days-of-code)
 2. [D3js](https://d3js.org/)
 
+
+### Day 5: February 01, 2017
+
+**Today's Progress**: Continued FCC JS Course, studying arrays, and indexes.
+
+**Thoughts:** Had a rough day at the office, set me back, and I just took an evening of mental relaxation for the last day of the month. Tonight though I think things head on, and started digging into understanding strings, multi-dimensional arrays, and indexes. I find that slowing down and working through the problem is helping. My biggest hurdle so far has just been maintaining the vocabulary.
+
+1. [#100DaysofCode](https://github.com/nashkell/100-days-of-code)
+
+
