@@ -80,3 +80,17 @@ Just finished the jQuery courses and I'm concerned I'm going through them too fa
 1. [#100DaysofCode](https://github.com/nashkell/100-days-of-code)
 
 
+### Day 6: February 02, 2017
+
+**Today's Progress**: FCC NYC Meetup, Gulp, BrowserSync, Continued FCC JS Course.
+
+**Thoughts:** Spent some time with the FCC meetup leader learning about and setting Gulp and Browsersync as a development environment. Wonderful tool for automating your process/workflow and then spent some more time on the FCC JS course/challenges.
+
+It was quite humbling working with the leader tonight. It's moments like these where you realize how little you know in comparison to where you think you are. I still think my biggest hurdle so far has just been maintaining the vocabulary, but I love the fact that everything is an intricate puzzle. 
+
+I think I'll add a "goals" section to preface progress. It might help me maintain a more realistic understanding of where I'm at and where I'm going.
+
+1. [Gulp.js](http://gulpjs.com/)
+2. [Browsersync](https://www.browsersync.io/)
+
+
