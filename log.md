@@ -94,3 +94,10 @@ I think I'll add a "goals" section to preface progress. It might help me maintai
 2. [Browsersync](https://www.browsersync.io/)
 
 
+### Day 7-8: February 03-04, 2017
+
+**Today's Progress**: Git, Continued FCC JS Course, Switch statements.
+
+**Thoughts:** Friday was spent tirelessly working through FCC Javascript courses, Saturday morning was watching and getting to understand Git through terminal. Saturday afternoon consisted of switch statements.
+
+1. [Git How To](https://githowto.com/)
