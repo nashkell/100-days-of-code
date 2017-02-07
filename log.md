@@ -98,6 +98,19 @@ I think I'll add a "goals" section to preface progress. It might help me maintai
 
 **Today's Progress**: Git, Continued FCC JS Course, Switch statements.
 
-**Thoughts:** Friday was spent tirelessly working through FCC Javascript courses, Saturday morning was watching and getting to understand Git through terminal. Saturday afternoon consisted of switch statements.
+**Thoughts:** Friday was spent tirelessly working through FCC Javascript courses, Saturday morning was watching videos and getting to understand Git through terminal. Saturday afternoon consisted of switch statements.
 
 1. [Git How To](https://githowto.com/)
+
+
+### Day 9: February 05-06, 2017
+
+**Today's Progress**: Continued FCC JS Course, D3js, google maps api.
+
+**Thoughts:** Sunday was an overly busy day, mainly due to the planning for the Dreamation convention coming up. I'm helping run a parlor larp based on a larp that I've been participating in for the past 7 years. Luckily I was able to squeeze in some time in the evening to read documentation on google maps api and d3js; I'm hoping to make the in game maps interactive for everyone. 
+
+Monday night was full of FCC JS challenges and researching options of frameworks/libraries for my portfolio rebuild. Maybe I can incorporate that into my FCC Portfolio project?
+
+1. [Git How To](https://githowto.com/)
+2. [Try Github.io] (https://try.github.io/levels/1/challenges/1)
+3. [D3js](https://d3js.org/)
