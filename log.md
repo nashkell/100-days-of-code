@@ -114,3 +114,13 @@ Monday night was full of FCC JS challenges and researching options of frameworks
 1. [Git How To](https://githowto.com/)
 2. [Try Github.io] (https://try.github.io/levels/1/challenges/1)
 3. [D3js](https://d3js.org/)
+
+
+### Day 10: February 07, 2017
+
+**Today's Progress**: Continued FCC JS Course, gathered assets for FCC-Portfolio.
+
+**Thoughts:** Tuesday evening I focused on the FCC JS Challenges, but a majority of the evening was spent reflecting on my review from work earlier in the day, and then was mainly spent continuing researching options of frameworks/libraries for my portfolio rebuild.
+
+
+
