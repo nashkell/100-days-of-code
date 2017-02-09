@@ -123,4 +123,10 @@ Monday night was full of FCC JS challenges and researching options of frameworks
 **Thoughts:** Tuesday evening I focused on the FCC JS Challenges, but a majority of the evening was spent reflecting on my review from work earlier in the day, and then was mainly spent continuing researching options of frameworks/libraries for my portfolio rebuild.
 
 
+### Day 11: February 08, 2017
+
+**Today's Progress**: Continued FCC JS Course, card counter is a tough cookie to crack.
+
+**Thoughts:** Wednesday I spent some time at lunch getting through a few FCC JS challenges, and paused at the card counter, only to continue working on understanding its complexity when I got home. I will solve you tomorrow, blizzard or no blizzard Some time was also spent continuing research of options regarding frameworks/libraries for my portfolio rebuild.
+
 
